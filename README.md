@@ -1,4 +1,4 @@
-# CarlaDB: A Real-time Carla Dashboard for Perception & Decision Verification to enhance AI Developer Experience
+# CarlaDASH: A Real-time Carla Dashboard for Perception & Decision Verification to enhance AI Developer Experience
 ## 1. Introduction
 In August 2025, our team ranked 10th in the End-to-End (E2E) Autonomous Driving Challenge at ICCV. We developed an end-to-end autonomous driving system based on NVIDIA GTRS, integrating Diffusion Policy, Vision-Language-Action (VLA) models, and additional components to enhance performance.
 
