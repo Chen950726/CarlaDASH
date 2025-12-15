@@ -1,4 +1,4 @@
-<img width="144" height="40" alt="image" src="https://github.com/user-attachments/assets/9260112b-9b73-4589-9078-deddd3e496cb" /><img width="323" height="67" alt="image" src="https://github.com/user-attachments/assets/c7a5e487-8dce-46bb-9fa8-a1301c0e5f69" /><img width="337" height="67" alt="image" src="https://github.com/user-attachments/assets/60497a54-4c9d-4daa-86a5-08af437433a8" /># CarlaDB: A Real-time Carla Dashboard for Perception & Decision Verification to enhance AI Developer Experience
+# CarlaDB: A Real-time Carla Dashboard for Perception & Decision Verification to enhance AI Developer Experience
 ## 1. Introduction
 In August 2025, our team ranked 10th in the End-to-End (E2E) Autonomous Driving Challenge at ICCV. We developed an end-to-end autonomous driving system based on NVIDIA GTRS, integrating Diffusion Policy, Vision-Language-Action (VLA) models, and additional components to enhance performance.
 
@@ -14,10 +14,8 @@ In robot learning, a vision-language-action model (VLA) is a class of multimodal
 <img width="723" height="151" alt="image" src="https://github.com/user-attachments/assets/b256f69f-5b83-4d5a-8318-0e950daa2a91" />
 
 ## 3. Method
-<figure>
 <img width="387" height="278" alt="截圖 2025-12-15 11 16 27" src="https://github.com/user-attachments/assets/4a3752f3-57c8-4df6-9a55-e7f5de9c6b63" />
-<figcaption>{▴ Fig 2. Method}
-</figure>
+
 
 ### Real-Time Information
 In our system, we developed a real-time information dashboard to provide developers with essential testing information. Within the testing environment, the dashboard displays key components—including server and client status, map configuration, vehicle state, and active models—allowing developers to efficiently review and monitor experimental settings.
